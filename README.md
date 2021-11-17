@@ -9,4 +9,4 @@ The notebos are for a ilustration and analys from the result.
 
 You need to check if there are the Python libraries: numpy, pandas,tensorflow and sklearn.
 
-For more information about the methods, please see this [article]()
+For more information about the methods, please see this [article](https://arxiv.org/pdf/2107.01635.pdf)
